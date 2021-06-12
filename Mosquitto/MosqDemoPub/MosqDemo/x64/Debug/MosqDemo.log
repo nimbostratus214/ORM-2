@@ -1,0 +1,3 @@
+﻿  MosqDemo.cpp
+C:\Program Files\Mosquitto\MosqDemoPub\MosqDemo\MosqDemo.cpp(26,10): warning C4778: 'printf' : unterminated format string '%\n'
+  MosqDemo.vcxproj -> C:\Program Files\Mosquitto\MosqDemoPub\x64\Debug\MosqDemo.exe

@@ -1,0 +1,3 @@
+﻿  senzor.cpp
+C:\Users\Radenko\Desktop\ORM2\Senzori\senzor.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Senzori.vcxproj -> C:\Users\Radenko\Desktop\ORM2\Debug\Senzori.exe

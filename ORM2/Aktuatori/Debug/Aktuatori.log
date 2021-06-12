@@ -1,0 +1,5 @@
+﻿  aktuator.cpp
+C:\Users\Radenko\Desktop\ORM2\Aktuatori\aktuator.cpp(41,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Radenko\Desktop\ORM2\Aktuatori\aktuator.cpp(57,17): warning C4101: 'poruka1': unreferenced local variable
+C:\Users\Radenko\Desktop\ORM2\Aktuatori\aktuator.cpp(54,26): warning C4101: 'mreq1': unreferenced local variable
+  Aktuatori.vcxproj -> C:\Users\Radenko\Desktop\ORM2\Debug\Aktuatori.exe

@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\Radenko\Desktop\ORM2\Client\Client.cpp(35,21): warning C4101: 'he': unreferenced local variable
+  Client.vcxproj -> C:\Users\Radenko\Desktop\ORM2\Debug\Client.exe
